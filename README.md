@@ -2,3 +2,4 @@
 
 ### You can navigate to:
 - [Resume](https://Siadatian.github.io/Resume/Index.html)
+- [SOP](https://Siadatian.github.io/SOP/Index.html)
