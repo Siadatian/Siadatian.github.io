@@ -3,7 +3,10 @@
 
 # به صفحه گیت هاب من خوش آمدید!
 
-  
+</div> 
+
+<div dir"rtl">
+
 ### شما می توانید از بخش های زیر بازدید کنید:
 - [PNU مخزن](https://github.com/Siadatian/PNU_3991_AR)
 - [رزومه](https://Siadatian.github.io/Resume/Index.html)
